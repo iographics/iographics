@@ -787,9 +787,9 @@ body, #container-wrap { background:#ededed; }
 
 	#sucbscribe {
 		display: flex;
-		scale:48%;
-		top: 133px;
-		left: 96px;
+		scale:70%;
+		top: -60px;
+		left: 54px;
 	}
 
 	#sucbscribe .email-field {
