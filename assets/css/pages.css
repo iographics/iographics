@@ -734,8 +734,8 @@ body, #container-wrap { background:#ededed; }
 
 
 	#sucbscribe {
-		scale:80%;
-		top: 10px;
+		scale:105%;
+		top: -210px;
 		left: 60px;
 	}
 
@@ -787,9 +787,9 @@ body, #container-wrap { background:#ededed; }
 
 	#sucbscribe {
 		display: flex;
-		scale:70%;
-		top: -60px;
-		left: 54px;
+		scale:80%;
+		top: -150px;
+		left: 35px;
 	}
 
 	#sucbscribe .email-field {
@@ -1101,9 +1101,7 @@ html {
 
 /*hamburger tab*/
 
-
 /*End hamburger tab*/
-
 
 
 #item12341 {
@@ -1213,6 +1211,7 @@ html {
 	height:26px !important;
 	left:338px !important;
 	top:2320px !important;
+	scale: 150%;
 }
 
 #item6443 {
@@ -1712,6 +1711,7 @@ html {
 	height:25px !important;
 	left:142px !important;
 	top:2560px !important;
+	scale: 130%;
 }
 
 #item10446 {
