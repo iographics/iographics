@@ -772,6 +772,9 @@ body, #container-wrap { background:#ededed; }
 		font-family: poppins, Arial, Helvetica, sans-serif ;
 		left: 38px;
 		top: 998px;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 		z-index: 1;
 	}
 
@@ -824,7 +827,10 @@ body, #container-wrap { background:#ededed; }
 		color: #7fc093;
 		font-family: poppins, Arial, Helvetica, sans-serif ;
 		left: 38px;
-		top: 998px;
+		top: 984px;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 		z-index: 1;
 	}
 
